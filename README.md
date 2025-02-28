@@ -1,14 +1,6 @@
-# Banana Disease Prediction API
+# Banana Disease Prediction
 
-This project provides a RESTful API for predicting banana leaf diseases using a deep learning model. Users can upload an image of a banana leaf, and the API will return a prediction indicating whether the leaf is healthy or affected by diseases such as Black Sigatoka or Fusarium wilt.
-
----
-
-## Features
-- **Disease Detection**: Identifies banana leaf conditions (e.g., Black Sigatoka, Fusarium wilt, Healthy).
-- **REST API**: Simple interface to upload an image and receive a prediction.
-- **Preprocessing**: Handles image resizing and normalization automatically.
-- **Frontend Integration**: User-friendly interface built with React and styled using Tailwind CSS.
+This project predicts banana leaf diseases using a deep learning model. Users can upload an image of a banana leaf, and will return a prediction indicating whether the leaf is healthy or affected by Black Sigatoka and Fusarium wilt.
 
 ---
 
